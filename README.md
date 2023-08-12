@@ -39,3 +39,7 @@ Contributions are welcome! To contribute:
 3. Commit changes: `git commit -am 'Add new feature`.
 4. Push to the branch: `git push origin feature-name`.
 5. Submit a pull request.
+
+## Report Issue
+- To report issues related to the program, fill the form given below.
+- https://forms.gle/fs6BZSvmBNQdKRXB7
